@@ -49,6 +49,7 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="Файлы\Use Case диограмма.docx" />
+    <None Include="Файлы\Тест-кейсы ПР 17 часть 2.docx" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
